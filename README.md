@@ -1,6 +1,6 @@
 # FEM Project — MATLAB & ABAQUS Analysis
 
-This repository contains a Finite Element Analysis (FEA) of a fixed–fixed beam subjected to a static perpendicular load.  
+This repository contains a Finite Element Analysis (FEA) of a fixed-middle-roller beam subjected to a static perpendicular load.  
 The analysis was performed using:
 
 - **MATLAB** (custom beam stiffness code)
